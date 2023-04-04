@@ -3,8 +3,8 @@
        ┏━┓┏━┓╻┏┓╻╺┳╸   ╻┏━╸   ┏━┓┏━╸┏━╸╻┏━╸╻┏━┓╻     ╺┳╸┏━┓┏━┓╻  ┏━┓   ┏━┓┏━┓┏━┓┏━┓
        ┃ ┃┗━┓┃┃┗┫ ┃    ┃┃╺┓   ┃ ┃┣╸ ┣╸ ┃┃  ┃┣━┫┃      ┃ ┃ ┃┃ ┃┃  ┗━┓   ┏━┛┃┃┃┏━┛╺━┫
        ┗━┛┗━┛╹╹ ╹ ╹    ╹┗━┛   ┗━┛╹  ╹  ╹┗━╸╹╹ ╹┗━╸    ╹ ┗━┛┗━┛┗━╸┗━┛   ┗━╸┗━┛┗━╸┗━┛
-       Creator Original: Hunxploit4
-       Creator Remake  : FerzChills
+       Creator Original: https://github.com/Hunxploit04
+       Creator Remake  : https://github.com/FerzChills
        Langueng        : Bash,Python3
        Youtube         : Ferxz
        Tiktok          : FerzXStore
