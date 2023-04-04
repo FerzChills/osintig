@@ -15,6 +15,11 @@ Blu='\033[1;34m'
 Mage='\033[1;35m'
 Cy='\033[1;36m'
 Wh='\033[1;37m'
+#variable Diaatas Username dan Password
+os.system("figlet -f future OSINT IG REMAKE FERZ | lolcat")
+#Login Variable Add BY Ferz
+username = input("\033[1;34mMasukkan username Anda: ")
+password = input("\033[1;34mMasukkan password Anda: ")
 # Loading Variable
 def loadings(x):
     for y in x + "\n":
