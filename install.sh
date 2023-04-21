@@ -11,4 +11,4 @@ pip install -r requirements.txt
 echo "\033[1;34mRunning Tools\33[0m"
 sleep 3
 clear
-python3 run.py
+python3 ig.py
