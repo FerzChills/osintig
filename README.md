@@ -3,16 +3,14 @@
        ┏━┓┏━┓╻┏┓╻╺┳╸   ╻┏━╸   ┏━┓┏━╸┏━╸╻┏━╸╻┏━┓╻     ╺┳╸┏━┓┏━┓╻  ┏━┓   ┏━┓┏━┓┏━┓┏━┓
        ┃ ┃┗━┓┃┃┗┫ ┃    ┃┃╺┓   ┃ ┃┣╸ ┣╸ ┃┃  ┃┣━┫┃      ┃ ┃ ┃┃ ┃┃  ┗━┓   ┏━┛┃┃┃┏━┛╺━┫
        ┗━┛┗━┛╹╹ ╹ ╹    ╹┗━┛   ┗━┛╹  ╹  ╹┗━╸╹╹ ╹┗━╸    ╹ ┗━┛┗━┛┗━╸┗━┛   ┗━╸┗━┛┗━╸┗━┛
-       Creator Original: https://github.com/Hunxploit04
-       Creator Remake  : https://github.com/FerzChills
-       Langueng        : Bash,Python3
+       Creator Original: https://github.com/FerzChills
+       Langueng        : Python3
        Youtube         : Ferxz
        Tiktok          : FerzXStore
        Whatsapp        : +6281539394660
        ━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸
        NEW UPDATE V0,2
-       -ADDED USERNAME AND PASSWORD LOGIN
-       -FIX CODE TIDAK RAPI
+       -COMINGSOON
        ━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸╺━╸
        ╻ ╻┏━┓╻ ╻   ╺┳╸┏━┓   ╻┏┓╻┏━┓╺┳╸┏━┓╻  ╻
        ┣━┫┃ ┃┃╻┃    ┃ ┃ ┃   ┃┃┗┫┗━┓ ┃ ┣━┫┃  ┃
